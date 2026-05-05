@@ -44,7 +44,7 @@
    &kp TAB   &kp SEMI   &kp CMMA   &kp DOT    &kp P &kp Y   &kp F &kp G  &kp C     &kp R   &kp L      &kp BSPC
    &kp ESC   &hm LGUI A &hm LALT O &hm LCTL E &hm LSHFT U &kp I   &kp D &hm LSHFT H &hm LCTL T &hm LALT N &hm LGUI S &kp QUOT
    &kp LSHFT &kp FSLH   &kp Q      &kp J      &kp K       &kp X   &kp B &kp M       &kp W      &kp V      &kp Z      &kp RSHFT
-                                        &kp LGUI &lt LOWER TAB &kp SPACE   &kp RET &lt RAISE BKSP &kp RALT
+                                        &tog MOUSE &lt LOWER TAB &kp SPACE   &kp RET &lt RAISE BKSP &kp RALT
                         >;
                 };
                 lower_layer {
